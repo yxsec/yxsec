@@ -4,20 +4,12 @@
 
 ## 👋 Hey, I'm Yixuan. Welcome to my profile
   <br>
-  
-
-### 😸 My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/yxsec/yxsec/main/assets/github-contribution-grid-snake.svg" />
-<br>
-</div>
 
 ### 🍉 Take a look at my stats
 
 <div align="center" width="100%">
  
-| <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Magi2B0y&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Magi2B0y's github stats" /> </a> | <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsec&layout=compact&theme=buefy&hide=html,CSS,Smarty,SCSS,LESS,JavaScript,Yacc" /> </a> | 
+| <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yxsec&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Magi2B0y's github stats" /> </a> | <a> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsec&layout=compact&theme=buefy&hide=html,CSS,Smarty,SCSS,LESS,JavaScript,Yacc" /> </a> | 
 | ------------- | ------------- |
 </div>
 
