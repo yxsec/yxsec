@@ -14,9 +14,3 @@
 </div>
 
 ## If my repositories can help you, please click a star⭐ for me. 
-
-<p align="left"> 
-  Visitor count
-  <br>
-  <img src="https://profile-counter.glitch.me/yxsec/count.svg" />
-</p>
